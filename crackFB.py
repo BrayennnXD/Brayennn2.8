@@ -51,7 +51,7 @@ from rich.table import Table
 from rich.columns import Columns
 from rich.progress import Progress,SpinnerColumn,BarColumn,TextColumn,TimeElapsedColumn
 console = Console()
-sys.stdout.write('\x1b]2; BMBF | BrayennnXD Multi Brute Facebook\x07')
+sys.stdout.write('\x1b]2; BMBF | CLAOUPY4 Multi Brute Facebook\x07')
 #------------------[ USER-AGENT ]-------------------#
 pretty.install()
 CON=sol()
@@ -76,7 +76,7 @@ for xd in range(10000):
 	c=random.randrange(73,100)
 	d=random.randrange(4200,4900)
 	e=random.randrange(40,150)
-	uaku=f'Mozilla/5.0 (Linux; Android {a}; SAMSUNG SM-A305FN) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{c}.0.{d}.{e} Mobile Safari/537.36'
+	uaku=f'Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36'
 	ugen2.append(uaku)
 
 #------------[ UBAH UA DIH SINI OM ]---------------#
@@ -94,7 +94,7 @@ for t in range(10000):
 	ugen.append(uaku2)
 
 for x in range(10):
-	a='Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
+	a='Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/318.0.0.16.105;]'
 	b=random.randrange(100, 9999)
 	c=random.randrange(100, 9999)
 	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -102,7 +102,7 @@ for x in range(10):
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	g=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	h=random.randrange(1, 9)
-	i='Linux; Android 7.1.2; Redmi 4A)'
+	i='Linux; Android 6.0.1; SM-G532G)'
 	j=random.randrange(1, 9)
 	k=random.randrange(1, 9)
 	l='Mobile Safari/E7FBAF'
@@ -189,7 +189,7 @@ def banner():
  ______ ___  _____  ___________  _____  _____ _   __ 
  |  ___/ _ \/  __ \|  ___| ___ \|  _  ||  _  | | / /
  | |_ / /_\ \ /  \/| |__ | |_/ /| | | || | | | |/ /     |  |   Source Code Alvino
- |  _||  _  | |    |  __|| ___ \| | | || | | |    \     |  |   Update By BrayennnXD 
+ |  _||  _  | |    |  __|| ___ \| | | || | | |    \     |  |   Update By CLAOUPY4
  | |  | | | | \__/\| |___| |_/ /\ \_/ /\ \_/ / |\  \    |  |   Version Script 2.8
  \_|  \_| |_/\____/\____/\____/  \___/  \___/\_| \_/                                                                                                     
              """,width=90,title=f"Banner",style=f"bold white"))
@@ -307,18 +307,18 @@ def menu(my_name,my_id):
 	cetak(panel(f'[bold white][[bold green]•[/][bold white]][/] [bold white]Username : [bold green]{my_name}[/]\n[bold white][[bold green]•[/][bold white]][/] [bold white]User Idz : [bold green]{my_id}[/]\n[bold white][[bold green]•[/][bold white]][/] [bold white]User Ip  : [bold green]{ip}[/][/] ',width=90,title=f"[bold green]Infomasi",style=f"bold white"))
 	cetak(panel(f'[bold white][[bold green]01[/][bold white]][/] [bold white]Crack Publick [[bold green] ON [bold white]][/]\n[bold white][[bold green]02[/][bold white]][/] [bold white]Crack Massal [[bold green] ON [bold white]][/]\n[bold white][[bold green]03[/][bold white]][/] [bold white]Cek Result [[bold green] ON [bold white]][/]\n[bold white][[bold green]00[/][bold white]][/] [bold red]Ganti Cookies [[bold green] ON [bold white]][/]',width=90,title=f"[bold green]List Menu",style=f"bold white"))
 	cetak(panel(f'[bold white]Ketik [bold green]"Lainnya"[bold white] Untuk Melihat Menu Tambahan | Ketik [bold green]"Bot"[bold white] Untuk Ke Menu Tambahan',width=90,title=f"[bold green]Informasi Crack",style=f"bold white"))
-	_____brayennn___xd____ = input(f' ╰─  Pilih Menu Crack : ')
-	if _____brayennn___xd____ in ['1','01']:
+	_____cly___xd____ = input(f' ╰─  Pilih Menu Crack : ')
+	if _____cly___xd____ in ['1','01']:
 		brayen_dump()
-	elif _____brayennn___xd____ in ['2','02']:
+	elif _____cly___xd____ in ['2','02']:
 		dump_massal()
-	elif _____brayennn___xd____ in ['3','03']:
+	elif _____cly_xd____ in ['3','03']:
 		result()
-	elif _____brayennn___xd____ in ['lainnya','Lainnya','LAINNYA']:
+	elif _____cly___xd____ in ['lainnya','Lainnya','LAINNYA']:
 		lainnya()
-	elif _____brayennn___xd____ in ['Bot','BOT','bot']:
+	elif _____cly___xd____ in ['Bot','BOT','bot']:
 		bot()
-	elif _____brayennn___xd____ in ['0','00']:
+	elif _____cly___xd____ in ['0','00']:
 		os.system('rm -rf .token.txt')
 		os.system('rm -rf .cookie.txt')
 		print(f' ╰─  {m}Sukses Logout+Hapus Cookies{x}')
@@ -354,13 +354,14 @@ def bot():
 
 agent = random.choice(
 		[
-			"Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36",
+			"Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/318.0.0.16.105;]
 			"Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36",
 			"Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
 			"Dalvik/1.6.0 (Linux; U; Android 4.1.1; BroadSign Xpress 1.0.14 B- (720) Build/JRO03H)",
 			"Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; BroadSign Xpress 1.0.15-6 B- (720) Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30","Mozilla/5.0 (Linux; Android 5.1.1; A37fw Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36",
-			"Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36"
-			"Mozilla/5.0 (Linux; Android 10; SM-A305F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36"
+			"Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36[FBAN/EMA;FBLC/id_ID;FBAV/221.0.0.12.120;]
+			"Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 UCBrowser/11.5.2.1188 (UCMini) Mobile
+
 	]
 )
 
