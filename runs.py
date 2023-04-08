@@ -183,14 +183,14 @@ def clear():
 	os.system('clear')
 def back():
 	login()
-#------------------[ LOGO-LAKNAT ]-----------------#
+#------------------[ LOGO-ASUU ]-----------------#
 def banner():
 	cetak(panel(f"""
  ______ ___  _____  ___________  _____  _____ _   __ 
  |  ___/ _ \/  __ \|  ___| ___ \|  _  ||  _  | | / /
- | |_ / /_\ \ /  \/| |__ | |_/ /| | | || | | | |/ /     |  |   Source Code Alvino
+ | |_ / /_\ \ /  \/| |__ | |_/ /| | | || | | | |/ /     |  |   RECODE IS ANJING
  |  _||  _  | |    |  __|| ___ \| | | || | | |    \     |  |   Update By CLAOUPY4
- | |  | | | | \__/\| |___| |_/ /\ \_/ /\ \_/ / |\  \    |  |   Version Script 2.8
+ | |  | | | | \__/\| |___| |_/ /\ \_/ /\ \_/ / |\  \    |  |   Version 2.8
  \_|  \_| |_/\____/\____/\____/  \___/  \___/\_| \_/                                                                                                     
              """,width=90,title=f"Banner",style=f"bold white"))
 #--------------------[ BAGIAN-MASUK ]--------------#
@@ -282,7 +282,7 @@ def login_lagi334():
 							print(f"\n ╰─  Token : {access_token}")
 							tokenew = open(".token.txt","w").write(access_token)
 							cook= open(".cok.txt","w").write(your_cookies)
-							print("\n ╰─  Login Berhasil | python BrayennnFB.py");exit()
+							print("\n ╰─  Login Berhasil | python runs.py");exit()
 			except Exception as e:
 				print(" ╰─  Cookies Mokad Kontol")
 				os.system('rm -rf .token.txt && rm -rf .cok.txt')
@@ -303,13 +303,13 @@ def menu(my_name,my_id):
 	os.system('clear')
 	banner()
 	ip = requests.get("https://api.ipify.org").text
-	cetak(panel(f'[bold white] Thanks To Alvino Adijaya , Rozhak XD , DerrXr , Asepit-Gans And Others 😁 😁',width=90,style=f"bold white"))
+	cetak(panel(f'[bold white] Thanks To CLAOUPY5 , CLAOUPY4 , Alvino Adijaya , Rozhak XD , DerrXr , Asepit-Gans And Others 😁 😁',width=90,style=f"bold white"))
 	cetak(panel(f'[bold white][[bold green]•[/][bold white]][/] [bold white]Username : [bold green]{my_name}[/]\n[bold white][[bold green]•[/][bold white]][/] [bold white]User Idz : [bold green]{my_id}[/]\n[bold white][[bold green]•[/][bold white]][/] [bold white]User Ip  : [bold green]{ip}[/][/] ',width=90,title=f"[bold green]Infomasi",style=f"bold white"))
 	cetak(panel(f'[bold white][[bold green]01[/][bold white]][/] [bold white]Crack Publick [[bold green] ON [bold white]][/]\n[bold white][[bold green]02[/][bold white]][/] [bold white]Crack Massal [[bold green] ON [bold white]][/]\n[bold white][[bold green]03[/][bold white]][/] [bold white]Cek Result [[bold green] ON [bold white]][/]\n[bold white][[bold green]00[/][bold white]][/] [bold red]Ganti Cookies [[bold green] ON [bold white]][/]',width=90,title=f"[bold green]List Menu",style=f"bold white"))
 	cetak(panel(f'[bold white]Ketik [bold green]"Lainnya"[bold white] Untuk Melihat Menu Tambahan | Ketik [bold green]"Bot"[bold white] Untuk Ke Menu Tambahan',width=90,title=f"[bold green]Informasi Crack",style=f"bold white"))
 	_____cly___xd____ = input(f' ╰─  Pilih Menu Crack : ')
 	if _____cly___xd____ in ['1','01']:
-		brayen_dump()
+		_dump()
 	elif _____cly___xd____ in ['2','02']:
 		dump_massal()
 	elif _____cly_xd____ in ['3','03']:
