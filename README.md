@@ -1,8 +1,8 @@
 # Brayennn2.8
 
-git clone https://github.com/BrayennnXD/Brayennn2.8
+git clone https://github.com/CLAYS-AI/Clay
 
 cd Brayennn2.8
 
-python BrayennnFB.py
+python clay.py
 
