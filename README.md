@@ -1,8 +1,8 @@
-# Brayennn2.8
 
-git clone https://github.com/Claoupy/Brayennn2.8
 
-cd Brayennn2.8
+git clone https://github.com/Claoupy/BFBV2.8
 
-python BrayennnFB.py
+cd BFBV2.8
+
+python Clay.py
 
